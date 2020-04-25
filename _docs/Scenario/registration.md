@@ -1,8 +1,7 @@
 ---
-title: Registration
-category: Scenario
+title: Регистрация
+category: Сценарии
 order: 1
 ---
 
-
-Ура Ура
+> Ура Ура
