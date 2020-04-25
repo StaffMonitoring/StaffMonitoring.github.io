@@ -1,7 +1,8 @@
 ---
 title: Registration
-category: Scenario
+category: Сценарии
 order: 1
+published: true
 ---
 
 
