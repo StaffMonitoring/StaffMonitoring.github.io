@@ -1,5 +1,5 @@
 ---
-title: Registration
+title: Регистрация
 category: Сценарии
 order: 1
 published: true
