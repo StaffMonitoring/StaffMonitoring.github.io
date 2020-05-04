@@ -123,5 +123,5 @@ published: true
 
 
 <h5>Документы для скачивания</h5>
-
+<br>
 <p><a href="/images/word-documentation/v1.docx" download>Исследование. Этап 1</a>
