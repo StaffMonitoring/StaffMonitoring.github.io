@@ -94,8 +94,8 @@ published: true
 <h5>Документы для скачивания</h5>
 
 <br>
-<p><a href="/images/registration-scenario/hand-input.jpg" download>Схема 1. Регистрация(ручной ввод)</a>
-<p><a href="/images/registration-scenario/social-service.jpg" download>Схема 2. Регистрация(сторонние сервисы)</a>
-<p><a href="/images/registration-scenario/log-in.jpg" download>Схема 3. Положительный сценарий входа в систему</a>
-<p><a href="/images/registration-scenario/forgot-pass.jpg" download>Схема 4. Восстановление пароля</a>
-<p><a href="/images/registration-scenario/main.jpg" download>Схема 4. Общая схема</a>
+<a href="/images/registration-scenario/hand-input.jpg" download>Схема 1. Регистрация(ручной ввод)</a>
+<a href="/images/registration-scenario/social-service.jpg" download>Схема 2. Регистрация(сторонние сервисы)</a>
+<a href="/images/registration-scenario/log-in.jpg" download>Схема 3. Положительный сценарий входа в систему</a>
+<a href="/images/registration-scenario/forgot-pass.jpg" download>Схема 4. Восстановление пароля</a>
+<a href="/images/registration-scenario/main.jpg" download>Схема 4. Общая схема</a>
