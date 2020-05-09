@@ -9,6 +9,7 @@ published: true
 После заполнения информации о компании, пользователю предлагается добавить сотрудника для контроля учета его рабочего времени. У пользователя есть выбор:
 1. Создать сотрудника;<br>
 2. Пригласить сотрудника;<br>
+<br>
 В случае выбора первого варианта необходимо заполнить следующие поля:<br>
 --- ФИО - заполняется Фамилия Имя и Отчество сотрудника, данное поле включат проверку на максимальное значение и формат символов (поле является обязательным для заполнения).<br>
 --- Дата Рождения - день, месяц, год. Поле является необязательным, его цель заключается в дальнейшем уведомлении пользователя о днях рождениях своих сотрудников.<br>
@@ -47,7 +48,7 @@ published: true
 
 <img src="/images/addEmployee/main.jpg" width="100%" height="auto"><br>
 
-Ниже вставлены примеры реализации данной формы приложения конкурентов "Нано табельный учет"<br>
+Ниже приведены примеры реализации данной формы приложения конкурентов "Нано табельный учет"<br>
 <img src="/images/addEmployee/1.jpg" width="100%" height="auto"><br>
 <img src="/images/addEmployee/2.jpg" width="100%" height="auto"><br>
 
@@ -55,8 +56,8 @@ published: true
 <h5>Материалы для скачивания</h5>
 
 <br>
-<a href="/images/addEmployee/form_addEmployee.jpg" download>Схема 1. Добавление сотрудника</a>
-<a href="/images/addEmployee/addPosition.jpg" download>Схема 2. Добавление должности</a>
-<a href="/images/addEmployee/main.jpg" download>Схема 3. Общая схема</a>
-<a href="/images/addEmployee/1.jpg" download>Схема 2. Реализация процесса добавления сотрудника у конкурентов</a>
-<a href="/images/addEmployee/2.jpg" download>Схема 3. Реализация процесса добавления должности у конкурентов</a>
+<a href="/images/addEmployee/form_addEmployee.jpg" download>Схема 1. Добавление сотрудника</a><br>
+<a href="/images/addEmployee/addPosition.jpg" download>Схема 2. Добавление должности</a><br>
+<a href="/images/addEmployee/main.jpg" download>Схема 3. Общая схема</a><br>
+<a href="/images/addEmployee/1.jpg" download>Схема 2. Реализация процесса добавления сотрудника у конкурентов</a><br>
+<a href="/images/addEmployee/2.jpg" download>Схема 3. Реализация процесса добавления должности у конкурентов</a><br>
