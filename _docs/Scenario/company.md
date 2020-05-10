@@ -1,7 +1,7 @@
 ---
 title: Модуль 2. создания компании
 category: Пользовательские сценарии
-order: 1
+order: 2
 published: true
 ---
 
