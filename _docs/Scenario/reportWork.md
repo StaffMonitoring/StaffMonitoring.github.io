@@ -33,11 +33,11 @@ published: true
 
 Изображения реализации процесса отчетности о проделанных работах у конкурентов показана ниже:<br>
 
-<img src="/images/reportWork/example.png" width="100%" height="auto"><br>
+<img src="/images/reportWork/example.jpg" width="100%" height="auto"><br>
 
 <br>
 <h5>Материалы для скачивания</h5>
 
 <br>
 <a href="/images/reportWork/report.jpg" download>Схема 1. Реализация процесса отчетности</a><br>
-<a href="/images/reportWork/example.png" download>Схема 2. Пример реализации процесса отчетности у конкурентов</a><br>
+<a href="/images/reportWork/example.jpg" download>Схема 2. Пример реализации процесса отчетности у конкурентов</a><br>
