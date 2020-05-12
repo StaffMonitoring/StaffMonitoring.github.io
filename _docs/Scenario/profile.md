@@ -1,7 +1,7 @@
 ---
 title: Модуль 8. Неприоритетные модули
 category: Пользовательские сценарии
-order: 4
+order: 8
 published: true
 ---
 

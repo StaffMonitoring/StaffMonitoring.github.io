@@ -1,7 +1,7 @@
 ---
 title: Модуль 7. Расчет заработной платы
 category: Пользовательские сценарии
-order: 6
+order: 7
 published: true
 ---
 
